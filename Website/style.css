@@ -1,0 +1,41 @@
+#title{
+    color: rgb(210, 95, 223);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+body{
+    background-image: url("photo.jpg");
+    background-size: cover;
+
+}
+#text1{
+    color: rgb(231, 203, 224);
+    text-align: center;
+
+}
+
+#lastText{
+    text-align: center;
+    color: lightcyan;
+    font-family:Verdana, Geneva, Tahoma, cursive;
+}
+
+
+
+
+
+
+
+/* This is a comment on css 
+
+so here we can adjust the looks of our title
+So there very easily you can change the color and the font even 
+for now we will disable the black background 
+
+lets save a photo and place it as a background! 
+dindt like that one, lets find another one
+
+now lets add the embeded video!
+*/
